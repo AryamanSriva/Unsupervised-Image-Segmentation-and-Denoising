@@ -1,5 +1,4 @@
-# Unsupervised-Image-Segmentation-and-Denoising
-
+# Unsupervised Image Segmentation and Denoising
 
 A comparative study of two unsupervised image segmentation methods: EAGLE (Eigen Aggregation Learning) and TokenCut (Self-Supervised Transformers for Object Discovery).
 
