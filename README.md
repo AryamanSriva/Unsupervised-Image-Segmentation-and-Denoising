@@ -58,35 +58,6 @@ This repository contains implementations and evaluations of two distinct approac
 - CUDA-capable GPU (recommended)
 - PyTorch 1.9+
 
-## Usage
-
-### EAGLE
-
-```python
-# Using notebook
-FINAL_EAGLE_COLAB.ipynb
-
-# Command line
-python eagle_inference.py --dataset coco-stuff --checkpoint path/to/checkpoint.ckpt
-```
-
-### TokenCut
-
-```python
-# Using notebook
-TokenCut_Final_Optimized.ipynb
-
-# Command line
-python tokencut_inference.py --dataset ecssd --image_path path/to/image.jpg
-```
-
-### Comparison
-
-```python
-# Run both models and generate comparison metrics
-EAGLE_vs_TokenCut_Comparison.ipynb
-```
-
 ## Datasets
 
 **COCO-Stuff-27**
