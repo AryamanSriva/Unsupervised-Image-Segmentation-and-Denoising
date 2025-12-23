@@ -7,7 +7,6 @@ A comparative study of two unsupervised image segmentation methods: EAGLE (Eigen
 - [Overview](#overview)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Datasets](#datasets)
 - [Methodology](#methodology)
 
