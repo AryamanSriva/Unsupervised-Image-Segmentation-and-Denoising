@@ -134,4 +134,3 @@ The second smallest eigenvector (Fiedler vector) provides the optimal bipartitio
 5. EAGLE is approximately 10x faster at inference
 
 
-
