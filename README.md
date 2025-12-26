@@ -133,4 +133,3 @@ The second smallest eigenvector (Fiedler vector) provides the optimal bipartitio
 4. TokenCut performs better on simple, salient objects (ECSSD: 42.82% mIoU)
 5. EAGLE is approximately 10x faster at inference
 
-
